@@ -8,7 +8,7 @@
   <a href="https://github.com/bayorino">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bayorino&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bayorino&layout=compact&langs_count=7&theme=merko"/>
-  <img align="right" alt="bayorino-pic" height="180" style="border-radius:50px;"
+  <img align="right" alt="makoto-kino" height="180" style="border-radius:50px; src="https://cdn.discordapp.com/attachments/978074566012338176/982043712202874950/sailor-moon-anime.gif"/>
   </div>
 
   ## Estou aprendendo a usar as tecnologias
