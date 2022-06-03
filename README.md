@@ -4,12 +4,12 @@
 - 🪴 Estudando HTML, CSS e JavaScript.
 - 🍃 My Pronouns Are Precioso y Mi Amor
 
-<img align="right" width="120" height="120" src="https://cdn.discordapp.com/attachments/978074566012338176/982043712202874950/sailor-moon-anime.gif"/>
+<img align="right" width="180" height="180" src="https://cdn.discordapp.com/attachments/978074566012338176/982043712202874950/sailor-moon-anime.gif"/>
 
 <div>
   <a href="https://github.com/bayorino">
   <img height="120em" src="https://github-readme-stats.vercel.app/api?username=bayorino&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  </div>
+</div>
 
   ## Estou aprendendo a usar as tecnologias
   
@@ -22,7 +22,7 @@
   
   ##
   
-  </div>
+</div>
   <a href = "mailto:bayorino@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
