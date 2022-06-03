@@ -4,7 +4,7 @@
 - 🪴 Estudando HTML, CSS e JavaScript.
 - 🍃 My Pronouns Are Precioso y Mi Amor
 
-<img align="right" width="180" src="https://cdn.discordapp.com/attachments/978074566012338176/982043712202874950/sailor-moon-anime.gif"/>
+<img align="right" width="180" height="120" src="https://cdn.discordapp.com/attachments/978074566012338176/982043712202874950/sailor-moon-anime.gif"/>
 
 <div>
   <a href="https://github.com/bayorino">
