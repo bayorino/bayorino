@@ -28,5 +28,3 @@
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
   
 </div>
-
-<img width="250" align="right" height="180" src="https://media.giphy.com/media/jIgXf4hgbHCeKiXpvt/giphy.gif">
