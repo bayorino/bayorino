@@ -4,9 +4,9 @@
 - 🪴 Estudando HTML, CSS e JavaScript.
 - 🍃 My Pronouns Are Precioso y Mi Amor
 
+<img align="right" width="120" height="120" src="https://cdn.discordapp.com/attachments/978074566012338176/982043712202874950/sailor-moon-anime.gif"/>
 
 <div>
-  <img align="right" width="120" height="120"  src="https://cdn.discordapp.com/attachments/978074566012338176/982043712202874950/sailor-moon-anime.gif"/>
   <a href="https://github.com/bayorino">
   <img height="120em" src="https://github-readme-stats.vercel.app/api?username=bayorino&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
   <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bayorino&layout=compact&langs_count=7&theme=merko"/>
