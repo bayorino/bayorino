@@ -1,4 +1,4 @@
-## Olá! Eu sou o Yuri Gabriel 👋
+## Olá! Eu sou o Gabriel 👋
 
 - 🌱 Cursando Tecnólogo em Análise e Desenvolvimento de Sistemas.
 - 🪴 Estudando HTML, CSS e Javascript.
